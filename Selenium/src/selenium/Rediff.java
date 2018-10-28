@@ -13,6 +13,8 @@ public class Rediff {
 		driver.get("http://www.rediff.com/");
 		driver.findElement(By.cssSelector("a[title='Sign in']")).click();
 		System.out.println("vijay");
+		System.out.println("vijay kumar");
+		
 
 	}
 
