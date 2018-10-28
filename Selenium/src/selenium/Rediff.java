@@ -13,8 +13,12 @@ public class Rediff {
 		driver.get("http://www.rediff.com/");
 		driver.findElement(By.cssSelector("a[title='Sign in']")).click();
 		System.out.println("vijay");
-		System.out.println("vijay duplicate");
-		System.out.println("kumar");
+		System.out.println("vijay kumar");
+		System.out.println("vijay kumar kakunuri");
+		System.out.println("vijay kumar_252");
+		System.out.println("merging line");
+		
+		
 
 	}
 
